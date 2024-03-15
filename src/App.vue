@@ -1,20 +1,44 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import TheWelcome from './components/TheWelcome.vue'
-</script>
+<script setup></script>
 
 <template>
   <header>
-    <img alt="Vue logo" class="logo" src="./assets/logo.svg" width="125" height="125" />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+    <div>
+      <span id="logo">Liquid Gold Box</span>
+      <img src="./assets/logo.png" alt="logo">
     </div>
   </header>
 
-  <main>
-    <TheWelcome />
-  </main>
+  <div class="content">
+    <h1 class="title">Coffee Plans</h1>
+
+    <h2 class="subtitle">
+      We travel the world to source the very best single origin coffee for you
+    </h2>
+
+    <div class="plans">
+      <div class="plan">
+        <div class="description">
+          <span class="title">
+            The Single
+          </span>
+        </div>
+      </div>
+      <div class="plan">
+        <div class="description">
+          <span class="title">
+            The Curious
+          </span>
+        </div>
+      </div>
+      <div class="plan">
+        <div class="description">
+          <span class="title">
+            The Curious
+          </span>
+        </div>
+      </div>
+    </div>
+  </div>
 </template>
 
 <style scoped>
