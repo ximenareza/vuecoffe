@@ -12,28 +12,28 @@
     <h1 class="title">Coffee Plans</h1>
 
     <h2 class="subtitle">
-      We travel the world to source the very best single origin coffee for you
+      Viajamos por el mundo para encontrar el mejor café de origen único para ti
     </h2>
 
     <div class="plans">
       <div class="plan">
         <div class="description">
           <span class="title">
-            The Single
+            El Soltero
           </span>
         </div>
       </div>
       <div class="plan">
         <div class="description">
           <span class="title">
-            The Curious
+            El Curioso
           </span>
         </div>
       </div>
       <div class="plan">
         <div class="description">
           <span class="title">
-            The Curious
+            El adicto
           </span>
         </div>
       </div>
